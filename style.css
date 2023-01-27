@@ -1,0 +1,129 @@
+
+h1 {
+    color: #aab6f3;
+    text-shadow: 0.1em 0.1em 0.2em rgba(0, 0, 0, 0.79);
+    margin: 0;
+    padding: 2%;
+    font-family: sans-serif;
+    font-size: 300%;
+    text-align: center;
+}
+.descri {
+    text-align: center;
+    font-size: 150%;
+    color: white;
+    text-shadow: 0.1em 0.1em 0.2em rgba(0, 0, 0, 0.79);
+}
+.main {
+    text-align: center;
+    width: auto;
+    height: auto;
+    margin-top: 10%;
+}
+.contenair {
+    display: flex;
+    text-align: center;
+    justify-content: center;
+} 
+html {height: 100%;}
+
+.body1 {
+  background-image: url("https://i.pinimg.com/originals/95/16/50/95165057927927e0158a1ed8202ef494.png");
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  
+}
+.body2 {
+  background-image: url("https://img.rawpixel.com/s3fs-private/rawpixel_images/website_content/rm251-aum-01_1_2.jpg?w=800&dpr=1&fit=default&crop=default&q=65&vib=3&con=3&usm=15&bg=F4F4F3&ixlib=js-2.2.1&s=a6cc66028f73bea111103608c255e031");
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+.button1 {
+    border: none;
+    color: white;
+    padding: 16px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 150%;
+    transition-duration: 0.4s;
+    cursor: pointer;
+    background-color: white; 
+    color: black; 
+    border: 2px solid #b171ff;
+    font-family: cursive;
+    border-radius: 20px;
+  }
+.button1:hover {
+    background-color: #b171ff;
+    color: white;
+  }
+  .lienbutton{
+    margin: 5%;
+  }
+  
+  .fieldd {
+    background-color: #b171ff;
+    color: white;
+    padding: 12px 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  } 
+  .fieldd:hover {
+    background-color: #b171ff;
+  }
+  .profil {
+    color: white;
+    text-align: center;
+  }
+  h2 {
+    color: white;
+    text-shadow: 0.1em 0.1em 0.2em rgba(0, 0, 0, 0.79);
+    margin: 0;
+    padding: 2%;
+    font-family: sans-serif;
+    font-size: 200%;
+    text-align: center;
+}
+.field input {
+  font-size: 16px;
+  line-height: 28px;
+  min-height: 44px;
+  border: unset;
+  border-radius: 4px;
+  outline-color: rgb(84 105 212 / 0.5);
+  background-color: rgb(255, 255, 255);
+}
+
+.field {
+  padding-bottom: 24px;
+}
+.modif {
+  color: white;
+  font-size: 150%;
+  text-decoration: underline;
+  border: none;
+  background: none;
+} 
+.tab {
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+  width: 50%;
+  color: white;
+  border: 1px solid white;
+}
+.ptab1 {
+  background-color: #650797;
+  text-align: center;
+  color: rgb(244, 219, 255);
+  border: 1px solid white;
+}
+.ptab2 {
+  text-align: center;
+  color: white;
+  border: 1px solid white;
+}
