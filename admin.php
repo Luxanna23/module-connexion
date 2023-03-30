@@ -52,8 +52,8 @@ session_start();
     }
     ?>
     <div class="contenair">
-        <form class="lienbutton" method="POST">
-            <input class="button1" type="submit" name="deconnexion" value="Deconnexion">
+        <form method="POST">
+            <input type="submit" name="deconnexion" value="Deconnexion">
         </form>
     </div>
 </body>
